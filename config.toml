@@ -1,0 +1,4 @@
+accessToken = "ACCESS_TOKEN"
+userName = "USER_NAME"
+repository = "REPOSITORY_NAME"
+baseBranch = "BASE_BRANCH"
